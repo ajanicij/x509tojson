@@ -22,3 +22,5 @@ Any comments, questions, patches or suggestions are welcome. Right now
 this utility has only one purpose - learning about OpenSSL's API.
 However, if there is interest it could turn into a library that can
 be used from other programs.
+
+The code is licensed under MIT license.
