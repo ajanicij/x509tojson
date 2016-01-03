@@ -1,5 +1,5 @@
 # x509tojson
-Utility that reads an X.509 certificate and outputs it in JSON
+Utility that reads an X.509 certificate and outputs it in JSON.
 
 This utility uses OpenSSL for parsing a certificate and libjson for
 generating JSON. It is mostly a product of my effort to learn OpenSSL.
